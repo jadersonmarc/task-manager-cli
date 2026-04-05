@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "description": "Estudar Go",
+    "status": "in-progress",
+    "createdAt": "0001-01-01T00:00:00Z",
+    "updatedAt": "2026-04-03T22:45:46.476846775-03:00"
+  }
+]
