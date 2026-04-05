@@ -1,5 +1,7 @@
 # Task Manager CLI
 
+URL do projeto: https://github.com/jadersonmarc/task-manager-cli
+
 Um gerenciador de tarefas simples em linha de comando escrito em Go.
 
 ## Visão geral
