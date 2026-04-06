@@ -1,6 +1,6 @@
 # Task Manager CLI
 
-Sample solution for the task-tracker challenge from roadmap.sh.
+Sample solution for the https://roadmap.sh/projects/task-tracker 
 
 URL do projeto: https://github.com/jadersonmarc/task-manager-cli
 
